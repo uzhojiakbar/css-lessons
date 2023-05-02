@@ -1,0 +1,9 @@
+text-align
+text-transform
+font-family
+letter-spacing
+word-spacing
+text-decoration
+background-color
+opacity
+rgb va rgba
