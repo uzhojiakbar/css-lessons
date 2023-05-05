@@ -6,7 +6,6 @@
 // font-family:; - shriftni sozlash
     // https://fonts.google.com/
     // @import url('https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&display=swap');
-
 // text-transform:; - harflarni katta-kichikligini sozlash
     // capitalize - faqatgina bosh harflarni katta harfga o'zgartiradi, qolgan harflar o'z holatida qoladi
     // lowercase - hammasini kichina qiladi
